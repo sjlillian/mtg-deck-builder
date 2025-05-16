@@ -1,7 +1,7 @@
 {
   "name": "mtg_deck_builder",
   "version": "0.1.0",
-  "homepage": "https://Xaldon.github.io/mtg_deck_builder",
+  "homepage": "https://sjlillian.github.io/mtg_deck_builder",
   "private": true,
   "scripts": {
     "predeploy": "npm run build",
